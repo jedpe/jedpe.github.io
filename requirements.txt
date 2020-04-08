@@ -1,0 +1,16 @@
+Markdown
+pelican
+jupyter
+ipython
+nbconvert
+beautifulsoup4
+ghp-import
+matplotlib
+scipy
+numpy
+scikit-learn
+statsmodels
+seaborn
+tensorflow
+keras
+nltk
